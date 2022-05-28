@@ -1,4 +1,4 @@
-name: BBuildPlugin
+name: BuildPlugin
 
 on:
   push:
